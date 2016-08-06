@@ -1,0 +1,46 @@
+_repo: Game-and-Playe-of-the-ChesseA-Verbatim-Reprint-of-the-First-Edition-1474_10672
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jacobus, de Cessolis, active 1288-1322
+    aliases:
+    - Iacobus, de Cessolis
+    - Cassalis, Jacob von
+    - Cessole, Jakob von
+    - Cessoles, Jacques de
+    - Cessole, Jacopo da
+    - De Cessolis, Jacobus
+    - Cessolis, Jacobus de
+    - Cessolis, Jacobo de
+    gutenberg_agent_id: '40516'
+    url: http://www.gutenberg.org/2009/agents/40516
+  - agent_name: Caxton, William
+    deathdate: 1491
+    gutenberg_agent_id: '3627'
+    url: http://www.gutenberg.org/2009/agents/3627
+    wikipedia: http://en.wikipedia.org/wiki/William_Caxton
+  editor:
+    agent_name: Axon, William E. A. (William Edward Armytage)
+    alias: Axon, William Edward Armytage
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '40515'
+    url: http://www.gutenberg.org/2009/agents/40515
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10672'
+  lccn: '49033523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chess -- Early works to 1800'
+- !lcc 'GV'
+- GITenberg
+title: 'Game and Playe of the Chesse
+
+  A Verbatim Reprint of the First Edition, 1474'
+url: http://www.gutenberg.org/ebooks/10672
